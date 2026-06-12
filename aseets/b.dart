@@ -1,0 +1,448 @@
+LearningItem(
+      id: 'a1',
+      name: 'A',
+      description: 'Apple',
+      phonetic: 'Ay',
+      category: Category.alphabet,
+      image: 'assets/abc letters/a.jpg'),
+  LearningItem(
+      id: 'a2',
+      name: 'B',
+      description: 'Ball',
+      phonetic: 'Bee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/b.webp'),
+  LearningItem(
+      id: 'a3',
+      name: 'C',
+      description: 'Cat',
+      phonetic: 'See',
+      category: Category.alphabet,
+      image: 'assets/abc letters/c.jpg'),
+  LearningItem(
+      id: 'a4',
+      name: 'D',
+      description: 'Dog',
+      phonetic: 'Dee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/d.jpg'),
+  LearningItem(
+      id: 'a5',
+      name: 'E',
+      description: 'Egg',
+      phonetic: 'Ee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/e.jpg'),
+  LearningItem(
+      id: 'a6',
+      name: 'F',
+      description: 'Fish',
+      phonetic: 'Ef',
+      category: Category.alphabet,
+      image: 'assets/abc letters/f.jpg'),
+  LearningItem(
+      id: 'a7',
+      name: 'G',
+      description: 'Goat',
+      phonetic: 'Jee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/g.jpg'),
+  LearningItem(
+      id: 'a8',
+      name: 'H',
+      description: 'Hat',
+      phonetic: 'Aych',
+      category: Category.alphabet,
+      image: 'assets/abc letters/h.jpeg'),
+  LearningItem(
+      id: 'a9',
+      name: 'I',
+      description: 'Ice',
+      phonetic: 'Eye',
+      category: Category.alphabet,
+      image: 'assets/abc letters/i.jpg'),
+  LearningItem(
+      id: 'a10',
+      name: 'J',
+      description: 'Jam',
+      phonetic: 'Jay',
+      category: Category.alphabet,
+      image: 'assets/abc letters/j.jpeg'),
+  LearningItem(
+      id: 'a11',
+      name: 'K',
+      description: 'Key',
+      phonetic: 'Kay',
+      category: Category.alphabet,
+      image: 'assets/abc letters/k.webp'),
+  LearningItem(
+      id: 'a12',
+      name: 'L',
+      description: 'Lion',
+      phonetic: 'El',
+      category: Category.alphabet,
+      image: 'assets/abc letters/l.jpeg'),
+  LearningItem(
+      id: 'a13',
+      name: 'M',
+      description: 'Moon',
+      phonetic: 'Em',
+      category: Category.alphabet,
+      image: 'assets/abc letters/m.jpeg'),
+  LearningItem(
+      id: 'a14',
+      name: 'N',
+      description: 'Net',
+      phonetic: 'En',
+      category: Category.alphabet,
+      image: 'assets/abc letters/n.jpg'),
+  LearningItem(
+      id: 'a15',
+      name: 'O',
+      description: 'Owl',
+      phonetic: 'Oh',
+      category: Category.alphabet,
+      image: 'assets/abc letters/o.jpg'),
+  LearningItem(
+      id: 'a16',
+      name: 'P',
+      description: 'Panda',
+      phonetic: 'Pee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/p.jpeg'),
+  LearningItem(
+      id: 'a17',
+      name: 'Q',
+      description: 'Queen',
+      phonetic: 'Cue',
+      category: Category.alphabet,
+      image: 'assets/abc letters/q.png'),
+  LearningItem(
+      id: 'a18',
+      name: 'R',
+      description: 'Rabit',
+      phonetic: 'Ar',
+      category: Category.alphabet,
+      image: 'assets/abc letters/r.webp'),
+  LearningItem(
+      id: 'a19',
+      name: 'S',
+      description: 'Sun',
+      phonetic: 'Es',
+      category: Category.alphabet,
+      image: 'assets/abc letters/s.jpg'),
+  LearningItem(
+      id: 'a20',
+      name: 'T',
+      description: 'Toy',
+      phonetic: 'Tee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/t.png'),
+  LearningItem(
+      id: 'a21',
+      name: 'U',
+      description: 'Umbrella',
+      phonetic: 'You',
+      category: Category.alphabet,
+      image: 'assets/abc letters/u.png'),
+  LearningItem(
+      id: 'a22',
+      name: 'V',
+      description: 'Van',
+      phonetic: 'Vee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/v.png'),
+  LearningItem(
+      id: 'a23',
+      name: 'W',
+      description: 'Water',
+      phonetic: 'Dub-el-you',
+      category: Category.alphabet,
+      image:
+          'https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'a24',
+      name: 'X',
+      description: 'ex-ray',
+      phonetic: 'Ex',
+      category: Category.alphabet,
+      image: 'assets/abc letters/x.jpeg'),
+  LearningItem(
+      id: 'a25',
+      name: 'Y',
+      description: 'Yo-yo',
+      phonetic: 'Why',
+      category: Category.alphabet,
+      image: 'assets/abc letters/y.png'),
+  LearningItem(
+      id: 'a26',
+      name: 'Z',
+      description: 'Zoo',
+      phonetic: 'Zee',
+      category: Category.alphabet,
+      image: 'assets/abc letters/z.png'),
+
+  // --- ANIMALS ---
+  LearningItem(
+      id: 'ani_ant',
+      name: 'Ant',
+      description: '',
+      phonetic: 'Ant',
+      category: Category.animals,
+      image: 'assets/animals/a.webp'),
+  LearningItem(
+      id: 'ani_bear',
+      name: 'Bear',
+      description: '',
+      phonetic: 'Bair',
+      category: Category.animals,
+      image: 'assets/animals/b.jpeg'),
+  LearningItem(
+      id: 'ani_cat',
+      name: 'Cow',
+      description: '',
+      phonetic: 'Kawo',
+      category: Category.animals,
+      image: 'assets/animals/c.jpeg'),
+  LearningItem(
+      id: 'ani_dog',
+      name: 'Dog',
+      description: '',
+      phonetic: 'Dog',
+      category: Category.animals,
+      image: 'assets/animals/d.jpg'),
+  LearningItem(
+      id: 'ani_ele',
+      name: 'Elephant',
+      description: '',
+      phonetic: 'El-uh-funt',
+      category: Category.animals,
+      image: 'assets/animals/e.jpg'),
+  LearningItem(
+      id: 'ani_fox',
+      name: 'Fox',
+      description: '',
+      phonetic: 'Fox',
+      category: Category.animals,
+      image: 'assets/animals/f.jpeg'),
+  LearningItem(
+      id: 'ani_gir',
+      name: 'Giraffe',
+      description: '',
+      phonetic: 'Juh-raff',
+      category: Category.animals,
+      image: 'assets/animals/g.jpg'),
+  LearningItem(
+      id: 'ani_hor',
+      name: 'Horse',
+      description: '',
+      phonetic: 'Hors',
+      category: Category.animals,
+      image: 'assets/animals/h.webp'),
+  LearningItem(
+      id: 'ani_lio',
+      name: 'Lion',
+      description: '',
+      phonetic: 'Ly-on',
+      category: Category.animals,
+      image: 'assets/animals/l.jpeg'),
+  LearningItem(
+      id: 'ani_mon',
+      name: 'Monkey',
+      description: '',
+      phonetic: 'Munk-ee',
+      category: Category.animals,
+      image: 'assets/animals/m.jpeg'),
+  LearningItem(
+      id: 'ani_pan',
+      name: 'Panda',
+      description: '',
+      phonetic: 'Pan-duh',
+      category: Category.animals,
+      image: 'assets/animals/p.jpeg'),
+  LearningItem(
+      id: 'ani_rab',
+      name: 'Rabbit',
+      description: '',
+      phonetic: 'Rab-it',
+      category: Category.animals,
+      image: 'assets/animals/r.webp'),
+  LearningItem(
+      id: 'ani_tig',
+      name: 'Tiger',
+      description: '',
+      phonetic: 'Ty-ger',
+      category: Category.animals,
+      image: 'assets/animals/t.jpeg'),
+  LearningItem(
+      id: 'ani_zeb',
+      name: 'Zebra',
+      description: '',
+      phonetic: 'Zee-bra',
+      category: Category.animals,
+      image: 'assets/animals/z.jpg'),
+
+  // --- SEA ANIMALS ---
+  LearningItem(
+      id: 'sea_cra',
+      name: 'Crab',
+      description: 'Has two pincher claws',
+      phonetic: 'Krab',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1522271890333-3d0d8262a69b?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_dol',
+      name: 'Dolphin',
+      description: 'Friendly and smart',
+      phonetic: 'Dol-fin',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1607153333879-c174d265f1d2?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_eel',
+      name: 'Eel',
+      description: 'Looks like a snake',
+      phonetic: 'Eel',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1571752726703-4e709eac34f7?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_fis',
+      name: 'Fish',
+      description: 'Swims in the water',
+      phonetic: 'Fish',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1524704654690-b56c05c78a00?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_jel',
+      name: 'Jellyfish',
+      description: 'Soft and wiggly',
+      phonetic: 'Jel-ee-fish',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1516683037151-9a94dbb9b9a9?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_oct',
+      name: 'Octopus',
+      description: 'Eight long arms',
+      phonetic: 'Ok-tuh-pus',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_sha',
+      name: 'Shark',
+      description: 'The ocean hunter',
+      phonetic: 'Shark',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_tur',
+      name: 'Turtle',
+      description: 'Has a hard shell',
+      phonetic: 'Tur-tul',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'sea_wha',
+      name: 'Whale',
+      description: 'The biggest animal',
+      phonetic: 'Way-ul',
+      category: Category.seaAnimals,
+      image:
+          'https://images.unsplash.com/photo-1568430462989-44163eb1752f?auto=format&fit=crop&w=600&q=80'),
+
+  // --- FRUITS ---
+  LearningItem(
+      id: 'f_app',
+      name: 'Apple',
+      description: 'Crunchy and sweet',
+      phonetic: 'Ap-el',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_ban',
+      name: 'Banana',
+      description: 'Yellow and long',
+      phonetic: 'Buh-nan-uh',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_che',
+      name: 'Cherry',
+      description: 'Small and red',
+      phonetic: 'Cher-ee',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1528821128474-27f9e7d0f2ec?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_gra',
+      name: 'Grapes',
+      description: 'Sweet and purple',
+      phonetic: 'Gray-ps',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1537640538966-79f369b41f8f?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_kiw',
+      name: 'Kiwi',
+      description: 'Fuzzy and green',
+      phonetic: 'Kee-wee',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1585059895524-72359e061381?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_lem',
+      name: 'Lemon',
+      description: 'Sour and yellow',
+      phonetic: 'Lem-un',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1582979512210-99b6a53386f9?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_man',
+      name: 'Mango',
+      description: 'Sweet and juicy',
+      phonetic: 'Man-go',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_ora',
+      name: 'Orange',
+      description: 'Round and citrus',
+      phonetic: 'Or-anj',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_pin',
+      name: 'Pineapple',
+      description: 'Prickly outside',
+      phonetic: 'Pine-ap-el',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1550258114-68bd4835d9fb?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_str',
+      name: 'Strawberry',
+      description: 'Small red berries',
+      phonetic: 'Straw-ber-ee',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1464965211904-c7214e38c8ba?auto=format&fit=crop&w=600&q=80'),
+  LearningItem(
+      id: 'f_wat',
+      name: 'Watermelon',
+      description: 'Big and juicy',
+      phonetic: 'Wah-ter-mel-un',
+      category: Category.fruits,
+      image:
+          'https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80'),
+];
